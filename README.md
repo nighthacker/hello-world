@@ -5,3 +5,6 @@ License public
 -----------------
 
 Author: AF
+
+Installation:
+make installation directory
