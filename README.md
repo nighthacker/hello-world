@@ -8,3 +8,6 @@ Author: AF
 
 Installation:
 make installation directory
+
+Uninstallation:
+Delete directory from drive
